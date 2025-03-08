@@ -1,0 +1,19 @@
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom-Optimizer-V3.csproj.AssemblyReference.cache
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.Form1.resources
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.Form2.resources
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.Properties.Resources.resources
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.welcome.resources
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom-Optimizer-V3.csproj.GenerateResource.cache
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom-Optimizer-V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom-Optimizer-V3.csproj.CoreCompileInputs.cache
+C:\Users\hick\Documents\bruh\bin\Debug\net472\Atom Optimizer V3.exe.config
+C:\Users\hick\Documents\bruh\bin\Debug\net472\Atom Optimizer V3.exe
+C:\Users\hick\Documents\bruh\bin\Debug\net472\Atom Optimizer V3.pdb
+C:\Users\hick\Documents\bruh\bin\Debug\net472\Guna.UI2.dll
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom-Opt.40584391.Up2Date
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom Optimizer V3.exe
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom Optimizer V3.pdb
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.cpu.resources
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.debloat.resources
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.game.resources
+C:\Users\hick\Documents\bruh\obj\Debug\net472\Atom_Optimizer_V3.general.resources

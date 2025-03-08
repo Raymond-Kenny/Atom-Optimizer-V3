@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>Atom Optimizer V3</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>7.3</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="costura.costura.dll.compressed" />
+    <None Remove="costura.costura.pdb.compressed" />
+    <None Remove="costura.guna.ui2.dll.compressed" />
+    <None Remove="costura.metadata" />
+    <EmbeddedResource Include="costura.costura.dll.compressed" LogicalName="costura.costura.dll.compressed" />
+    <EmbeddedResource Include="costura.costura.pdb.compressed" LogicalName="costura.costura.pdb.compressed" />
+    <EmbeddedResource Include="costura.guna.ui2.dll.compressed" LogicalName="costura.guna.ui2.dll.compressed" />
+    <EmbeddedResource Include="costura.metadata" LogicalName="costura.metadata" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\x64\Release\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>
